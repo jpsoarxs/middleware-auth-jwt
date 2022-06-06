@@ -1,4 +1,4 @@
-export default class Middleware {
+module.exports = class Middleware {
     constructor({ type = 'Bearer', secret }) {
         this.type = type;
         this.secret = secret;

@@ -1,2 +1,2 @@
-import Middleware from "./src/middleware";
-export default Middleware;
+const Middleware = require("./src/middleware");
+module.exports = Middleware;
