@@ -1,1 +1,2 @@
-console.log("This is a message from the demo package");
+import Middleware from "./src/middleware";
+export default Middleware;

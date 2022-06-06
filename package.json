@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jpsoarxs/middleware-auth-jwt/issues"
   },
-  "homepage": "https://github.com/jpsoarxs/middleware-auth-jwt#readme"
+  "homepage": "https://github.com/jpsoarxs/middleware-auth-jwt#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1"
+  }
 }
