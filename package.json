@@ -1,0 +1,19 @@
+{
+  "name": "@jpsoarxs/middleware-auth-jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpsoarxs/middleware-auth-jwt.git"
+  },
+  "author": "Joao Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpsoarxs/middleware-auth-jwt/issues"
+  },
+  "homepage": "https://github.com/jpsoarxs/middleware-auth-jwt#readme"
+}
